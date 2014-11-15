@@ -4,6 +4,6 @@
 int main()
 {
 	//printf("hello");
-	cout<<"hello";
+	cout<<"hello and fuck";
 	return 0;
 }
